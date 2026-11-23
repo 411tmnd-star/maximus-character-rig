@@ -1,0 +1,1718 @@
+{
+ "stage": "m4_canon_atlas",
+ "solver": "repair",
+ "blender": "/content/blender/blender-5.2.3-linux-x64/blender",
+ "pose_facts": {
+  "theta_fit": {
+   "pose": "theta_fit",
+   "z_sole_m": 1.989591282836045e-06,
+   "clavicles": {
+    "clavicle.L": [
+     1.0,
+     0.0,
+     0.0,
+     0.0
+    ],
+    "clavicle.R": [
+     1.0,
+     0.0,
+     0.0,
+     0.0
+    ]
+   },
+   "clavicle_lock_ok": true,
+   "seconds": 0.06
+  },
+  "P1": {
+   "pose": "P1",
+   "z_sole_m": 1.989591282836045e-06,
+   "clavicles": {
+    "clavicle.L": [
+     1.0,
+     0.0,
+     0.0,
+     0.0
+    ],
+    "clavicle.R": [
+     1.0,
+     0.0,
+     0.0,
+     0.0
+    ]
+   },
+   "clavicle_lock_ok": true,
+   "seconds": 0.05
+  },
+  "P2": {
+   "pose": "P2",
+   "z_sole_m": 2.114616563630989e-06,
+   "clavicles": {
+    "clavicle.L": [
+     1.0,
+     0.0,
+     0.0,
+     0.0
+    ],
+    "clavicle.R": [
+     1.0,
+     0.0,
+     0.0,
+     0.0
+    ]
+   },
+   "clavicle_lock_ok": true,
+   "seconds": 0.05
+  },
+  "P3": {
+   "pose": "P3",
+   "z_sole_m": 1.989591282836045e-06,
+   "clavicles": {
+    "clavicle.L": [
+     1.0,
+     0.0,
+     0.0,
+     0.0
+    ],
+    "clavicle.R": [
+     1.0,
+     0.0,
+     0.0,
+     0.0
+    ]
+   },
+   "clavicle_lock_ok": true,
+   "seconds": 0.05
+  },
+  "POSE_01": {
+   "pose": "POSE_01",
+   "clavicle_angles_dropped_deg": {
+    "clavicle_L": [
+     0.0,
+     2.5,
+     -3.0
+    ],
+    "clavicle_R": [
+     0.0,
+     -4.0,
+     4.0
+    ]
+   },
+   "hand_contacts": {
+    "R": "hip_pocket"
+   },
+   "z_sole_m": 2.0278384909033775e-06,
+   "clavicles": {
+    "clavicle.L": [
+     1.0,
+     0.0,
+     0.0,
+     0.0
+    ],
+    "clavicle.R": [
+     1.0,
+     0.0,
+     0.0,
+     0.0
+    ]
+   },
+   "clavicle_lock_ok": true,
+   "seconds": 0.21
+  },
+  "POSE_02": {
+   "pose": "POSE_02",
+   "clavicle_angles_dropped_deg": {
+    "clavicle_L": [
+     8.0,
+     3.0,
+     -6.0
+    ],
+    "clavicle_R": [
+     8.0,
+     -3.0,
+     6.0
+    ]
+   },
+   "hand_contacts": {
+    "L": "front_pocket",
+    "R": "front_pocket"
+   },
+   "z_sole_m": 2.078711986541748e-06,
+   "clavicles": {
+    "clavicle.L": [
+     1.0,
+     0.0,
+     0.0,
+     0.0
+    ],
+    "clavicle.R": [
+     1.0,
+     0.0,
+     0.0,
+     0.0
+    ]
+   },
+   "clavicle_lock_ok": true,
+   "seconds": 0.19
+  },
+  "POSE_03": {
+   "pose": "POSE_03",
+   "clavicle_angles_dropped_deg": {
+    "clavicle_L": [
+     3.0,
+     2.0,
+     -4.0
+    ],
+    "clavicle_R": [
+     -2.0,
+     -2.0,
+     4.0
+    ]
+   },
+   "hand_contacts": {},
+   "z_sole_m": 2.0815059542655945e-06,
+   "clavicles": {
+    "clavicle.L": [
+     1.0,
+     0.0,
+     0.0,
+     0.0
+    ],
+    "clavicle.R": [
+     1.0,
+     0.0,
+     0.0,
+     0.0
+    ]
+   },
+   "clavicle_lock_ok": true,
+   "seconds": 0.17
+  },
+  "POSE_04": {
+   "pose": "POSE_04",
+   "clavicle_angles_dropped_deg": {
+    "clavicle_L": [
+     0.0,
+     2.0,
+     0.0
+    ],
+    "clavicle_R": [
+     6.0,
+     -8.0,
+     8.0
+    ]
+   },
+   "hand_contacts": {
+    "R": "collar_point"
+   },
+   "z_sole_m": 1.887674443423748e-06,
+   "clavicles": {
+    "clavicle.L": [
+     1.0,
+     0.0,
+     0.0,
+     0.0
+    ],
+    "clavicle.R": [
+     1.0,
+     0.0,
+     0.0,
+     0.0
+    ]
+   },
+   "clavicle_lock_ok": true,
+   "seconds": 0.18
+  },
+  "POSE_05": {
+   "pose": "POSE_05",
+   "clavicle_angles_dropped_deg": {
+    "clavicle_L": [
+     7.0,
+     4.0,
+     -8.0
+    ],
+    "clavicle_R": [
+     2.0,
+     -2.0,
+     3.0
+    ]
+   },
+   "hand_contacts": {
+    "L": "opposite_bicep"
+   },
+   "z_sole_m": 2.031621988862753e-06,
+   "clavicles": {
+    "clavicle.L": [
+     1.0,
+     0.0,
+     0.0,
+     0.0
+    ],
+    "clavicle.R": [
+     1.0,
+     0.0,
+     0.0,
+     0.0
+    ]
+   },
+   "clavicle_lock_ok": true,
+   "seconds": 0.18
+  },
+  "POSE_06": {
+   "pose": "POSE_06",
+   "clavicle_angles_dropped_deg": {
+    "clavicle_L": [
+     -2.0,
+     3.0,
+     2.0
+    ],
+    "clavicle_R": [
+     -2.0,
+     -3.0,
+     -2.0
+    ]
+   },
+   "hand_contacts": {},
+   "z_sole_m": 2.0142761059105396e-06,
+   "clavicles": {
+    "clavicle.L": [
+     1.0,
+     0.0,
+     0.0,
+     0.0
+    ],
+    "clavicle.R": [
+     1.0,
+     0.0,
+     0.0,
+     0.0
+    ]
+   },
+   "clavicle_lock_ok": true,
+   "seconds": 0.17
+  },
+  "POSE_07": {
+   "pose": "POSE_07",
+   "clavicle_angles_dropped_deg": {
+    "clavicle_L": [
+     12.0,
+     14.0,
+     -10.0
+    ],
+    "clavicle_R": [
+     -3.0,
+     -6.0,
+     4.0
+    ]
+   },
+   "hand_contacts": {
+    "L": "back_of_neck"
+   },
+   "z_sole_m": 1.935299906108412e-06,
+   "clavicles": {
+    "clavicle.L": [
+     1.0,
+     0.0,
+     0.0,
+     0.0
+    ],
+    "clavicle.R": [
+     1.0,
+     0.0,
+     0.0,
+     0.0
+    ]
+   },
+   "clavicle_lock_ok": true,
+   "seconds": 0.18
+  },
+  "POSE_08": {
+   "pose": "POSE_08",
+   "clavicle_angles_dropped_deg": {
+    "clavicle_L": [
+     -4.0,
+     4.0,
+     6.0
+    ],
+    "clavicle_R": [
+     6.0,
+     -3.0,
+     -6.0
+    ]
+   },
+   "hand_contacts": {
+    "R": "same_knee",
+    "L": "behind_hip"
+   },
+   "z_sole_m": 1.962762326002121e-06,
+   "clavicles": {
+    "clavicle.L": [
+     1.0,
+     0.0,
+     0.0,
+     0.0
+    ],
+    "clavicle.R": [
+     1.0,
+     0.0,
+     0.0,
+     0.0
+    ]
+   },
+   "clavicle_lock_ok": true,
+   "seconds": 0.21
+  },
+  "POSE_09": {
+   "pose": "POSE_09",
+   "clavicle_angles_dropped_deg": {
+    "clavicle_L": [
+     2.0,
+     3.0,
+     -4.0
+    ],
+    "clavicle_R": [
+     -4.0,
+     -3.0,
+     6.0
+    ]
+   },
+   "hand_contacts": {
+    "R": "hand_on_hip"
+   },
+   "z_sole_m": 2.0782463252544403e-06,
+   "clavicles": {
+    "clavicle.L": [
+     1.0,
+     0.0,
+     0.0,
+     0.0
+    ],
+    "clavicle.R": [
+     1.0,
+     0.0,
+     0.0,
+     0.0
+    ]
+   },
+   "clavicle_lock_ok": true,
+   "seconds": 0.18
+  },
+  "POSE_10": {
+   "pose": "POSE_10",
+   "clavicle_angles_dropped_deg": {
+    "clavicle_L": [
+     3.0,
+     3.0,
+     -4.0
+    ],
+    "clavicle_R": [
+     4.0,
+     -3.0,
+     5.0
+    ]
+   },
+   "hand_contacts": {
+    "L": "hip_pocket",
+    "R": "mid_chest"
+   },
+   "z_sole_m": 1.9390136003494263e-06,
+   "clavicles": {
+    "clavicle.L": [
+     1.0,
+     0.0,
+     0.0,
+     0.0
+    ],
+    "clavicle.R": [
+     1.0,
+     0.0,
+     0.0,
+     0.0
+    ]
+   },
+   "clavicle_lock_ok": true,
+   "seconds": 0.18
+  },
+  "arm_elev_90": {
+   "pose": "arm_elev_90",
+   "z_sole_m": 1.989591282836045e-06,
+   "clavicles": {
+    "clavicle.L": [
+     1.0,
+     0.0,
+     0.0,
+     0.0
+    ],
+    "clavicle.R": [
+     1.0,
+     0.0,
+     0.0,
+     0.0
+    ]
+   },
+   "clavicle_lock_ok": true,
+   "seconds": 0.07
+  },
+  "arm_elev_120": {
+   "pose": "arm_elev_120",
+   "z_sole_m": 1.989591282836045e-06,
+   "clavicles": {
+    "clavicle.L": [
+     1.0,
+     0.0,
+     0.0,
+     0.0
+    ],
+    "clavicle.R": [
+     1.0,
+     0.0,
+     0.0,
+     0.0
+    ]
+   },
+   "clavicle_lock_ok": true,
+   "seconds": 0.09
+  }
+ },
+ "polish": [
+  {
+   "round": 0,
+   "keys": 41,
+   "g5": {
+    "theta_fit": 2,
+    "P1": 0,
+    "P2": 2,
+    "P3": 2,
+    "POSE_01": 0,
+    "POSE_02": 0,
+    "POSE_03": 2,
+    "POSE_04": 0,
+    "POSE_05": 1,
+    "POSE_06": 0,
+    "POSE_07": 1,
+    "POSE_08": 1,
+    "POSE_09": 9,
+    "POSE_10": 0,
+    "arm_elev_90": 2,
+    "arm_elev_120": 2
+   },
+   "max_G5": 9
+  },
+  {
+   "round": 1,
+   "keys": 47,
+   "g5": {
+    "theta_fit": 0,
+    "P1": 0,
+    "P2": 0,
+    "P3": 0,
+    "POSE_01": 0,
+    "POSE_02": 0,
+    "POSE_03": 0,
+    "POSE_04": 0,
+    "POSE_05": 0,
+    "POSE_06": 0,
+    "POSE_07": 0,
+    "POSE_08": 0,
+    "POSE_09": 9,
+    "POSE_10": 0,
+    "arm_elev_90": 0,
+    "arm_elev_120": 0
+   },
+   "max_G5": 9
+  },
+  {
+   "round": 2,
+   "keys": 48,
+   "g5": {
+    "theta_fit": 0,
+    "P1": 0,
+    "P2": 0,
+    "P3": 0,
+    "POSE_01": 0,
+    "POSE_02": 0,
+    "POSE_03": 0,
+    "POSE_04": 0,
+    "POSE_05": 0,
+    "POSE_06": 0,
+    "POSE_07": 0,
+    "POSE_08": 0,
+    "POSE_09": 9,
+    "POSE_10": 0,
+    "arm_elev_90": 0,
+    "arm_elev_120": 0
+   },
+   "max_G5": 9
+  },
+  {
+   "round": 3,
+   "keys": 48,
+   "g5": {
+    "theta_fit": 0,
+    "P1": 0,
+    "P2": 0,
+    "P3": 0,
+    "POSE_01": 0,
+    "POSE_02": 0,
+    "POSE_03": 0,
+    "POSE_04": 0,
+    "POSE_05": 0,
+    "POSE_06": 0,
+    "POSE_07": 0,
+    "POSE_08": 0,
+    "POSE_09": 9,
+    "POSE_10": 0,
+    "arm_elev_90": 0,
+    "arm_elev_120": 0
+   },
+   "max_G5": 9
+  },
+  {
+   "round": 4,
+   "keys": 49,
+   "g5": {
+    "theta_fit": 0,
+    "P1": 0,
+    "P2": 0,
+    "P3": 0,
+    "POSE_01": 0,
+    "POSE_02": 0,
+    "POSE_03": 0,
+    "POSE_04": 0,
+    "POSE_05": 0,
+    "POSE_06": 0,
+    "POSE_07": 0,
+    "POSE_08": 0,
+    "POSE_09": 0,
+    "POSE_10": 0,
+    "arm_elev_90": 0,
+    "arm_elev_120": 0
+   },
+   "max_G5": 0
+  }
+ ],
+ "correctives": {
+  "theta_fit": {
+   "tris_below_target_before": 8,
+   "G5_before": 6,
+   "min_ratio_before": 0.1256216662758551,
+   "G5_after": 0,
+   "tris_below_target_after": 0,
+   "min_ratio_after": 0.2804633842554962,
+   "active_vertices": 227,
+   "max_rest_delta_mm": 0.181,
+   "max_posed_move_mm": 0.181,
+   "repair_steps": 17,
+   "arap_energy_first_last": null,
+   "singular_blend_matrices": 0
+  },
+  "P1": {
+   "tris_below_target_before": 8,
+   "G5_before": 4,
+   "min_ratio_before": 0.1256216662758551,
+   "G5_after": 0,
+   "tris_below_target_after": 0,
+   "min_ratio_after": 0.28046977169349374,
+   "active_vertices": 73,
+   "max_rest_delta_mm": 0.181,
+   "max_posed_move_mm": 0.181,
+   "repair_steps": 17,
+   "arap_energy_first_last": null,
+   "singular_blend_matrices": 0
+  },
+  "P2": {
+   "tris_below_target_before": 8,
+   "G5_before": 6,
+   "min_ratio_before": 0.0763515547651502,
+   "G5_after": 0,
+   "tris_below_target_after": 0,
+   "min_ratio_after": 0.28040227822202174,
+   "active_vertices": 263,
+   "max_rest_delta_mm": 0.534,
+   "max_posed_move_mm": 0.531,
+   "repair_steps": 20,
+   "arap_energy_first_last": null,
+   "singular_blend_matrices": 0
+  },
+  "P3": {
+   "tris_below_target_before": 9,
+   "G5_before": 6,
+   "min_ratio_before": 0.1256216662758551,
+   "G5_after": 0,
+   "tris_below_target_after": 0,
+   "min_ratio_after": 0.28046166045590454,
+   "active_vertices": 254,
+   "max_rest_delta_mm": 0.181,
+   "max_posed_move_mm": 0.181,
+   "repair_steps": 17,
+   "arap_energy_first_last": null,
+   "singular_blend_matrices": 0
+  },
+  "POSE_01": {
+   "tris_below_target_before": 14,
+   "G5_before": 12,
+   "min_ratio_before": 0.05973356964028034,
+   "G5_after": 0,
+   "tris_below_target_after": 0,
+   "min_ratio_after": 0.2800997459528279,
+   "active_vertices": 441,
+   "max_rest_delta_mm": 0.657,
+   "max_posed_move_mm": 0.599,
+   "repair_steps": 13,
+   "arap_energy_first_last": null,
+   "singular_blend_matrices": 0
+  },
+  "POSE_02": {
+   "tris_below_target_before": 12,
+   "G5_before": 12,
+   "min_ratio_before": 0.09388659331387517,
+   "G5_after": 0,
+   "tris_below_target_after": 0,
+   "min_ratio_after": 0.28003557678679714,
+   "active_vertices": 642,
+   "max_rest_delta_mm": 1.31,
+   "max_posed_move_mm": 1.034,
+   "repair_steps": 24,
+   "arap_energy_first_last": null,
+   "singular_blend_matrices": 0
+  },
+  "POSE_03": {
+   "tris_below_target_before": 2,
+   "G5_before": 2,
+   "min_ratio_before": 0.2433873260161793,
+   "G5_after": 0,
+   "tris_below_target_after": 0,
+   "min_ratio_after": 0.28001024342367653,
+   "active_vertices": 188,
+   "max_rest_delta_mm": 0.035,
+   "max_posed_move_mm": 0.035,
+   "repair_steps": 12,
+   "arap_energy_first_last": null,
+   "singular_blend_matrices": 0
+  },
+  "POSE_04": {
+   "tris_below_target_before": 28,
+   "G5_before": 23,
+   "min_ratio_before": 0.006139633262285315,
+   "G5_after": 0,
+   "tris_below_target_after": 0,
+   "min_ratio_after": 0.28009898117177084,
+   "active_vertices": 503,
+   "max_rest_delta_mm": 3.838,
+   "max_posed_move_mm": 3.688,
+   "repair_steps": 25,
+   "arap_energy_first_last": null,
+   "singular_blend_matrices": 0
+  },
+  "POSE_05": {
+   "tris_below_target_before": 16,
+   "G5_before": 14,
+   "min_ratio_before": 0.09878792683943995,
+   "G5_after": 0,
+   "tris_below_target_after": 0,
+   "min_ratio_after": 0.280007067216033,
+   "active_vertices": 382,
+   "max_rest_delta_mm": 2.577,
+   "max_posed_move_mm": 2.328,
+   "repair_steps": 21,
+   "arap_energy_first_last": null,
+   "singular_blend_matrices": 0
+  },
+  "POSE_06": {
+   "tris_below_target_before": 3,
+   "G5_before": 2,
+   "min_ratio_before": 0.22558016373881715,
+   "G5_after": 0,
+   "tris_below_target_after": 0,
+   "min_ratio_after": 0.28013112850456706,
+   "active_vertices": 211,
+   "max_rest_delta_mm": 0.236,
+   "max_posed_move_mm": 0.231,
+   "repair_steps": 17,
+   "arap_energy_first_last": null,
+   "singular_blend_matrices": 0
+  },
+  "POSE_07": {
+   "tris_below_target_before": 36,
+   "G5_before": 29,
+   "min_ratio_before": 0.03983102769169802,
+   "G5_after": 0,
+   "tris_below_target_after": 0,
+   "min_ratio_after": 0.28007315636488966,
+   "active_vertices": 407,
+   "max_rest_delta_mm": 8.853,
+   "max_posed_move_mm": 2.393,
+   "repair_steps": 28,
+   "arap_energy_first_last": null,
+   "singular_blend_matrices": 0
+  },
+  "POSE_08": {
+   "tris_below_target_before": 40,
+   "G5_before": 30,
+   "min_ratio_before": 0.060296632765064626,
+   "G5_after": 0,
+   "tris_below_target_after": 0,
+   "min_ratio_after": 0.2800015904741922,
+   "active_vertices": 462,
+   "max_rest_delta_mm": 5.887,
+   "max_posed_move_mm": 4.986,
+   "repair_steps": 33,
+   "arap_energy_first_last": null,
+   "singular_blend_matrices": 0
+  },
+  "POSE_09": {
+   "tris_below_target_before": 32,
+   "G5_before": 26,
+   "min_ratio_before": 0.12613665491611428,
+   "G5_after": 0,
+   "tris_below_target_after": 0,
+   "min_ratio_after": 0.2801130772509175,
+   "active_vertices": 1591,
+   "max_rest_delta_mm": 0.814,
+   "max_posed_move_mm": 0.758,
+   "repair_steps": 20,
+   "arap_energy_first_last": null,
+   "singular_blend_matrices": 0
+  },
+  "POSE_10": {
+   "tris_below_target_before": 21,
+   "G5_before": 17,
+   "min_ratio_before": 0.09260719813851949,
+   "G5_after": 0,
+   "tris_below_target_after": 0,
+   "min_ratio_after": 0.2800151236607502,
+   "active_vertices": 607,
+   "max_rest_delta_mm": 0.663,
+   "max_posed_move_mm": 0.545,
+   "repair_steps": 17,
+   "arap_energy_first_last": null,
+   "singular_blend_matrices": 0
+  },
+  "arm_elev_90": {
+   "tris_below_target_before": 8,
+   "G5_before": 6,
+   "min_ratio_before": 0.1256216662758551,
+   "G5_after": 0,
+   "tris_below_target_after": 0,
+   "min_ratio_after": 0.2804600080334002,
+   "active_vertices": 227,
+   "max_rest_delta_mm": 0.181,
+   "max_posed_move_mm": 0.181,
+   "repair_steps": 17,
+   "arap_energy_first_last": null,
+   "singular_blend_matrices": 0
+  },
+  "arm_elev_120": {
+   "tris_below_target_before": 10,
+   "G5_before": 6,
+   "min_ratio_before": 0.1256216662758551,
+   "G5_after": 0,
+   "tris_below_target_after": 0,
+   "min_ratio_after": 0.2803197053642523,
+   "active_vertices": 249,
+   "max_rest_delta_mm": 0.189,
+   "max_posed_move_mm": 0.181,
+   "repair_steps": 17,
+   "arap_energy_first_last": null,
+   "singular_blend_matrices": 0
+  }
+ },
+ "g5": {
+  "before": {
+   "theta_fit": 6,
+   "P1": 4,
+   "P2": 6,
+   "P3": 6,
+   "POSE_01": 12,
+   "POSE_02": 12,
+   "POSE_03": 2,
+   "POSE_04": 23,
+   "POSE_05": 14,
+   "POSE_06": 2,
+   "POSE_07": 29,
+   "POSE_08": 30,
+   "POSE_09": 26,
+   "POSE_10": 17,
+   "arm_elev_90": 6,
+   "arm_elev_120": 6
+  },
+  "named4_only": {
+   "theta_fit": 2,
+   "P1": 0,
+   "P2": 2,
+   "P3": 2,
+   "POSE_01": 10,
+   "POSE_02": 10,
+   "POSE_03": 2,
+   "POSE_04": 14,
+   "POSE_05": 6,
+   "POSE_06": 2,
+   "POSE_07": 5,
+   "POSE_08": 4,
+   "POSE_09": 20,
+   "POSE_10": 14,
+   "arm_elev_90": 2,
+   "arm_elev_120": 2
+  },
+  "all": {
+   "theta_fit": 0,
+   "P1": 0,
+   "P2": 0,
+   "P3": 0,
+   "POSE_01": 0,
+   "POSE_02": 0,
+   "POSE_03": 0,
+   "POSE_04": 0,
+   "POSE_05": 0,
+   "POSE_06": 0,
+   "POSE_07": 0,
+   "POSE_08": 0,
+   "POSE_09": 0,
+   "POSE_10": 0,
+   "arm_elev_90": 0,
+   "arm_elev_120": 0
+  }
+ },
+ "keys": {
+  "PSD_axilla_L__P1": {
+   "family": "axilla_L",
+   "sample_poses": [
+    "P1"
+   ],
+   "named_family": true,
+   "vertices": 17,
+   "max_rest_delta_mm": 0.078
+  },
+  "PSD_axilla_L__P3": {
+   "family": "axilla_L",
+   "sample_poses": [
+    "P3"
+   ],
+   "named_family": true,
+   "vertices": 13,
+   "max_rest_delta_mm": 0.088
+  },
+  "PSD_axilla_L__POSE_02": {
+   "family": "axilla_L",
+   "sample_poses": [
+    "POSE_02"
+   ],
+   "named_family": true,
+   "vertices": 21,
+   "max_rest_delta_mm": 1.304
+  },
+  "PSD_axilla_L__POSE_05": {
+   "family": "axilla_L",
+   "sample_poses": [
+    "POSE_05"
+   ],
+   "named_family": true,
+   "vertices": 64,
+   "max_rest_delta_mm": 2.648
+  },
+  "PSD_axilla_L__POSE_07": {
+   "family": "axilla_L",
+   "sample_poses": [
+    "POSE_07"
+   ],
+   "named_family": true,
+   "vertices": 104,
+   "max_rest_delta_mm": 9.277
+  },
+  "PSD_axilla_L__POSE_08": {
+   "family": "axilla_L",
+   "sample_poses": [
+    "POSE_08"
+   ],
+   "named_family": true,
+   "vertices": 20,
+   "max_rest_delta_mm": 0.472
+  },
+  "PSD_axilla_L__POSE_10": {
+   "family": "axilla_L",
+   "sample_poses": [
+    "POSE_10"
+   ],
+   "named_family": true,
+   "vertices": 12,
+   "max_rest_delta_mm": 0.111
+  },
+  "PSD_axilla_L__arm_elev_120": {
+   "family": "axilla_L",
+   "sample_poses": [
+    "arm_elev_120"
+   ],
+   "named_family": true,
+   "vertices": 11,
+   "max_rest_delta_mm": 0.24
+  },
+  "PSD_axilla_R__P1": {
+   "family": "axilla_R",
+   "sample_poses": [
+    "P1"
+   ],
+   "named_family": true,
+   "vertices": 17,
+   "max_rest_delta_mm": 0.078
+  },
+  "PSD_axilla_R__POSE_01": {
+   "family": "axilla_R",
+   "sample_poses": [
+    "POSE_01"
+   ],
+   "named_family": true,
+   "vertices": 9,
+   "max_rest_delta_mm": 0.657
+  },
+  "PSD_axilla_R__POSE_02": {
+   "family": "axilla_R",
+   "sample_poses": [
+    "POSE_02"
+   ],
+   "named_family": true,
+   "vertices": 21,
+   "max_rest_delta_mm": 1.31
+  },
+  "PSD_axilla_R__POSE_04": {
+   "family": "axilla_R",
+   "sample_poses": [
+    "POSE_04"
+   ],
+   "named_family": true,
+   "vertices": 56,
+   "max_rest_delta_mm": 3.838
+  },
+  "PSD_axilla_R__POSE_08": {
+   "family": "axilla_R",
+   "sample_poses": [
+    "POSE_08"
+   ],
+   "named_family": true,
+   "vertices": 30,
+   "max_rest_delta_mm": 1.378
+  },
+  "PSD_axilla_R__POSE_09": {
+   "family": "axilla_R",
+   "sample_poses": [
+    "POSE_09"
+   ],
+   "named_family": true,
+   "vertices": 38,
+   "max_rest_delta_mm": 0.814
+  },
+  "PSD_axilla_R__POSE_10": {
+   "family": "axilla_R",
+   "sample_poses": [
+    "POSE_10"
+   ],
+   "named_family": true,
+   "vertices": 35,
+   "max_rest_delta_mm": 0.655
+  },
+  "PSD_axilla_R__arm_elev_120": {
+   "family": "axilla_R",
+   "sample_poses": [
+    "arm_elev_120"
+   ],
+   "named_family": true,
+   "vertices": 11,
+   "max_rest_delta_mm": 0.239
+  },
+  "PSD_elbow_L__POSE_02": {
+   "family": "elbow_L",
+   "sample_poses": [
+    "POSE_02"
+   ],
+   "named_family": false,
+   "vertices": 19,
+   "max_rest_delta_mm": 1.144
+  },
+  "PSD_elbow_L__POSE_05": {
+   "family": "elbow_L",
+   "sample_poses": [
+    "POSE_05"
+   ],
+   "named_family": false,
+   "vertices": 28,
+   "max_rest_delta_mm": 0.51
+  },
+  "PSD_elbow_L__POSE_07": {
+   "family": "elbow_L",
+   "sample_poses": [
+    "POSE_07"
+   ],
+   "named_family": false,
+   "vertices": 24,
+   "max_rest_delta_mm": 2.32
+  },
+  "PSD_elbow_R__POSE_01": {
+   "family": "elbow_R",
+   "sample_poses": [
+    "POSE_01"
+   ],
+   "named_family": false,
+   "vertices": 7,
+   "max_rest_delta_mm": 0.529
+  },
+  "PSD_elbow_R__POSE_02": {
+   "family": "elbow_R",
+   "sample_poses": [
+    "POSE_02"
+   ],
+   "named_family": false,
+   "vertices": 19,
+   "max_rest_delta_mm": 1.1
+  },
+  "PSD_elbow_R__POSE_04": {
+   "family": "elbow_R",
+   "sample_poses": [
+    "POSE_04"
+   ],
+   "named_family": false,
+   "vertices": 24,
+   "max_rest_delta_mm": 2.528
+  },
+  "PSD_elbow_R__POSE_09": {
+   "family": "elbow_R",
+   "sample_poses": [
+    "POSE_09"
+   ],
+   "named_family": false,
+   "vertices": 24,
+   "max_rest_delta_mm": 0.849
+  },
+  "PSD_elbow_R__POSE_10": {
+   "family": "elbow_R",
+   "sample_poses": [
+    "POSE_10"
+   ],
+   "named_family": false,
+   "vertices": 37,
+   "max_rest_delta_mm": 0.663
+  },
+  "PSD_foot_R__POSE_06": {
+   "family": "foot_R",
+   "sample_poses": [
+    "POSE_06"
+   ],
+   "named_family": false,
+   "vertices": 14,
+   "max_rest_delta_mm": 0.236
+  },
+  "PSD_hand_L__theta_fit": {
+   "family": "hand_L",
+   "sample_poses": [
+    "theta_fit",
+    "P2",
+    "P3",
+    "arm_elev_90",
+    "arm_elev_120"
+   ],
+   "named_family": false,
+   "vertices": 25,
+   "max_rest_delta_mm": 0.071
+  },
+  "PSD_hand_L__POSE_02": {
+   "family": "hand_L",
+   "sample_poses": [
+    "POSE_02"
+   ],
+   "named_family": false,
+   "vertices": 24,
+   "max_rest_delta_mm": 0.061
+  },
+  "PSD_hand_L__POSE_03": {
+   "family": "hand_L",
+   "sample_poses": [
+    "POSE_03"
+   ],
+   "named_family": false,
+   "vertices": 25,
+   "max_rest_delta_mm": 0.076
+  },
+  "PSD_hand_L__POSE_05": {
+   "family": "hand_L",
+   "sample_poses": [
+    "POSE_05"
+   ],
+   "named_family": false,
+   "vertices": 24,
+   "max_rest_delta_mm": 0.111
+  },
+  "PSD_hand_L__POSE_09": {
+   "family": "hand_L",
+   "sample_poses": [
+    "POSE_09"
+   ],
+   "named_family": false,
+   "vertices": 24,
+   "max_rest_delta_mm": 0.052
+  },
+  "PSD_hand_L__POSE_10": {
+   "family": "hand_L",
+   "sample_poses": [
+    "POSE_10"
+   ],
+   "named_family": false,
+   "vertices": 66,
+   "max_rest_delta_mm": 0.239
+  },
+  "PSD_hand_R__theta_fit": {
+   "family": "hand_R",
+   "sample_poses": [
+    "theta_fit",
+    "P3",
+    "arm_elev_90",
+    "arm_elev_120"
+   ],
+   "named_family": false,
+   "vertices": 25,
+   "max_rest_delta_mm": 0.071
+  },
+  "PSD_hand_R__P2": {
+   "family": "hand_R",
+   "sample_poses": [
+    "P2"
+   ],
+   "named_family": false,
+   "vertices": 25,
+   "max_rest_delta_mm": 0.071
+  },
+  "PSD_hand_R__POSE_01": {
+   "family": "hand_R",
+   "sample_poses": [
+    "POSE_01"
+   ],
+   "named_family": false,
+   "vertices": 67,
+   "max_rest_delta_mm": 0.283
+  },
+  "PSD_hand_R__POSE_02": {
+   "family": "hand_R",
+   "sample_poses": [
+    "POSE_02"
+   ],
+   "named_family": false,
+   "vertices": 24,
+   "max_rest_delta_mm": 0.062
+  },
+  "PSD_hand_R__POSE_03": {
+   "family": "hand_R",
+   "sample_poses": [
+    "POSE_03",
+    "POSE_05"
+   ],
+   "named_family": false,
+   "vertices": 24,
+   "max_rest_delta_mm": 0.064
+  },
+  "PSD_hand_R__POSE_04": {
+   "family": "hand_R",
+   "sample_poses": [
+    "POSE_04"
+   ],
+   "named_family": false,
+   "vertices": 52,
+   "max_rest_delta_mm": 0.195
+  },
+  "PSD_hand_R__POSE_08": {
+   "family": "hand_R",
+   "sample_poses": [
+    "POSE_08"
+   ],
+   "named_family": false,
+   "vertices": 24,
+   "max_rest_delta_mm": 0.068
+  },
+  "PSD_hand_R__POSE_09": {
+   "family": "hand_R",
+   "sample_poses": [
+    "POSE_09"
+   ],
+   "named_family": false,
+   "vertices": 56,
+   "max_rest_delta_mm": 0.201
+  },
+  "PSD_hand_R__POSE_10": {
+   "family": "hand_R",
+   "sample_poses": [
+    "POSE_10"
+   ],
+   "named_family": false,
+   "vertices": 24,
+   "max_rest_delta_mm": 0.105
+  },
+  "PSD_hip_L__theta_fit": {
+   "family": "hip_L",
+   "sample_poses": [
+    "theta_fit",
+    "P1",
+    "P3",
+    "arm_elev_90",
+    "arm_elev_120"
+   ],
+   "named_family": true,
+   "vertices": 26,
+   "max_rest_delta_mm": 0.122
+  },
+  "PSD_hip_L__P2": {
+   "family": "hip_L",
+   "sample_poses": [
+    "P2"
+   ],
+   "named_family": true,
+   "vertices": 34,
+   "max_rest_delta_mm": 0.548
+  },
+  "PSD_hip_L__POSE_08": {
+   "family": "hip_L",
+   "sample_poses": [
+    "POSE_08"
+   ],
+   "named_family": true,
+   "vertices": 44,
+   "max_rest_delta_mm": 1.254
+  },
+  "PSD_hip_R__theta_fit": {
+   "family": "hip_R",
+   "sample_poses": [
+    "theta_fit",
+    "P1",
+    "P3",
+    "arm_elev_90",
+    "arm_elev_120"
+   ],
+   "named_family": true,
+   "vertices": 17,
+   "max_rest_delta_mm": 0.092
+  },
+  "PSD_hip_R__P2": {
+   "family": "hip_R",
+   "sample_poses": [
+    "P2"
+   ],
+   "named_family": true,
+   "vertices": 18,
+   "max_rest_delta_mm": 0.245
+  },
+  "PSD_hip_R__POSE_08": {
+   "family": "hip_R",
+   "sample_poses": [
+    "POSE_08"
+   ],
+   "named_family": true,
+   "vertices": 71,
+   "max_rest_delta_mm": 6.041
+  },
+  "PSD_knee_R__POSE_06": {
+   "family": "knee_R",
+   "sample_poses": [
+    "POSE_06"
+   ],
+   "named_family": false,
+   "vertices": 9,
+   "max_rest_delta_mm": 0.111
+  },
+  "PSD_knee_R__POSE_08": {
+   "family": "knee_R",
+   "sample_poses": [
+    "POSE_08"
+   ],
+   "named_family": false,
+   "vertices": 29,
+   "max_rest_delta_mm": 1.251
+  },
+  "PSD_neck_head__POSE_09": {
+   "family": "neck_head",
+   "sample_poses": [
+    "POSE_09"
+   ],
+   "named_family": false,
+   "vertices": 75,
+   "max_rest_delta_mm": 0.055
+  }
+ },
+ "families": {
+  "axilla_L": {
+   "joints": [
+    "clavicle.L",
+    "shoulder01.L",
+    "upperarm01.L",
+    "upperarm02.L",
+    "spine01",
+    "spine02",
+    "spine03"
+   ],
+   "keys": [
+    "PSD_axilla_L__P1",
+    "PSD_axilla_L__P3",
+    "PSD_axilla_L__POSE_02",
+    "PSD_axilla_L__POSE_05",
+    "PSD_axilla_L__POSE_07",
+    "PSD_axilla_L__POSE_08",
+    "PSD_axilla_L__POSE_10",
+    "PSD_axilla_L__arm_elev_120"
+   ],
+   "sigma_deg": 11.095,
+   "rbf_cond": 107.45733373916676
+  },
+  "axilla_R": {
+   "joints": [
+    "clavicle.R",
+    "shoulder01.R",
+    "upperarm01.R",
+    "upperarm02.R",
+    "spine01",
+    "spine02",
+    "spine03"
+   ],
+   "keys": [
+    "PSD_axilla_R__P1",
+    "PSD_axilla_R__POSE_01",
+    "PSD_axilla_R__POSE_02",
+    "PSD_axilla_R__POSE_04",
+    "PSD_axilla_R__POSE_08",
+    "PSD_axilla_R__POSE_09",
+    "PSD_axilla_R__POSE_10",
+    "PSD_axilla_R__arm_elev_120"
+   ],
+   "sigma_deg": 10.681,
+   "rbf_cond": 89.67850810399541
+  },
+  "elbow_L": {
+   "joints": [
+    "upperarm02.L",
+    "lowerarm01.L",
+    "lowerarm02.L"
+   ],
+   "keys": [
+    "PSD_elbow_L__POSE_02",
+    "PSD_elbow_L__POSE_05",
+    "PSD_elbow_L__POSE_07"
+   ],
+   "sigma_deg": 5.46,
+   "rbf_cond": 185.12109131752786
+  },
+  "elbow_R": {
+   "joints": [
+    "upperarm02.R",
+    "lowerarm01.R",
+    "lowerarm02.R"
+   ],
+   "keys": [
+    "PSD_elbow_R__POSE_01",
+    "PSD_elbow_R__POSE_02",
+    "PSD_elbow_R__POSE_04",
+    "PSD_elbow_R__POSE_09",
+    "PSD_elbow_R__POSE_10"
+   ],
+   "sigma_deg": 12.74,
+   "rbf_cond": 17928.146343438373
+  },
+  "foot_R": {
+   "joints": [
+    "lowerleg02.R",
+    "foot.R",
+    "toe1-1.R",
+    "toe1-2.R",
+    "toe2-1.R",
+    "toe2-2.R",
+    "toe2-3.R",
+    "toe3-1.R",
+    "toe3-2.R",
+    "toe3-3.R",
+    "toe4-1.R",
+    "toe4-2.R",
+    "toe4-3.R",
+    "toe5-1.R",
+    "toe5-2.R",
+    "toe5-3.R"
+   ],
+   "keys": [
+    "PSD_foot_R__POSE_06"
+   ],
+   "sigma_deg": 6.024,
+   "rbf_cond": 7.177025850802462
+  },
+  "hand_L": {
+   "joints": [
+    "wrist.L",
+    "finger1-1.L",
+    "finger1-2.L",
+    "finger1-3.L",
+    "finger2-1.L",
+    "finger2-2.L",
+    "finger2-3.L",
+    "finger3-1.L",
+    "finger3-2.L",
+    "finger3-3.L",
+    "finger4-1.L",
+    "finger4-2.L",
+    "finger4-3.L",
+    "finger5-1.L",
+    "finger5-2.L",
+    "finger5-3.L",
+    "metacarpal1.L",
+    "metacarpal2.L",
+    "metacarpal3.L",
+    "metacarpal4.L"
+   ],
+   "keys": [
+    "PSD_hand_L__theta_fit",
+    "PSD_hand_L__POSE_02",
+    "PSD_hand_L__POSE_03",
+    "PSD_hand_L__POSE_05",
+    "PSD_hand_L__POSE_09",
+    "PSD_hand_L__POSE_10"
+   ],
+   "sigma_deg": 6.0,
+   "rbf_cond": 25.3085405573687
+  },
+  "hand_R": {
+   "joints": [
+    "wrist.R",
+    "finger1-1.R",
+    "finger1-2.R",
+    "finger1-3.R",
+    "finger2-1.R",
+    "finger2-2.R",
+    "finger2-3.R",
+    "finger3-1.R",
+    "finger3-2.R",
+    "finger3-3.R",
+    "finger4-1.R",
+    "finger4-2.R",
+    "finger4-3.R",
+    "finger5-1.R",
+    "finger5-2.R",
+    "finger5-3.R",
+    "metacarpal1.R",
+    "metacarpal2.R",
+    "metacarpal3.R",
+    "metacarpal4.R"
+   ],
+   "keys": [
+    "PSD_hand_R__theta_fit",
+    "PSD_hand_R__P2",
+    "PSD_hand_R__POSE_01",
+    "PSD_hand_R__POSE_02",
+    "PSD_hand_R__POSE_03",
+    "PSD_hand_R__POSE_04",
+    "PSD_hand_R__POSE_08",
+    "PSD_hand_R__POSE_09",
+    "PSD_hand_R__POSE_10"
+   ],
+   "sigma_deg": 6.0,
+   "rbf_cond": 14.646739768655989
+  },
+  "hip_L": {
+   "joints": [
+    "spine05",
+    "spine04",
+    "pelvis.L",
+    "pelvis.R",
+    "upperleg01.L",
+    "upperleg01.R",
+    "upperleg02.L"
+   ],
+   "keys": [
+    "PSD_hip_L__theta_fit",
+    "PSD_hip_L__P2",
+    "PSD_hip_L__POSE_08"
+   ],
+   "sigma_deg": 6.56,
+   "rbf_cond": 7.121738714523832
+  },
+  "hip_R": {
+   "joints": [
+    "spine05",
+    "spine04",
+    "pelvis.L",
+    "pelvis.R",
+    "upperleg01.L",
+    "upperleg01.R",
+    "upperleg02.R"
+   ],
+   "keys": [
+    "PSD_hip_R__theta_fit",
+    "PSD_hip_R__P2",
+    "PSD_hip_R__POSE_08"
+   ],
+   "sigma_deg": 6.56,
+   "rbf_cond": 7.121738714523832
+  },
+  "knee_R": {
+   "joints": [
+    "upperleg02.R",
+    "lowerleg01.R",
+    "lowerleg02.R"
+   ],
+   "keys": [
+    "PSD_knee_R__POSE_06",
+    "PSD_knee_R__POSE_08"
+   ],
+   "sigma_deg": 4.0,
+   "rbf_cond": 1936.1956626663289
+  },
+  "neck_head": {
+   "joints": [
+    "spine01",
+    "neck01",
+    "neck02",
+    "neck03",
+    "head"
+   ],
+   "keys": [
+    "PSD_neck_head__POSE_09"
+   ],
+   "sigma_deg": 4.0,
+   "rbf_cond": 45.92721662960826
+  }
+ },
+ "bind_weights_max": 0.0,
+ "z_sole_mm": {
+  "theta_fit": 0.002,
+  "P1": 0.002,
+  "P2": 0.0021,
+  "P3": 0.002,
+  "POSE_01": 0.002,
+  "POSE_02": 0.0021,
+  "POSE_03": 0.0021,
+  "POSE_04": 0.0019,
+  "POSE_05": 0.002,
+  "POSE_06": 0.002,
+  "POSE_07": 0.0019,
+  "POSE_08": 0.002,
+  "POSE_09": 0.0021,
+  "POSE_10": 0.0019,
+  "arm_elev_90": 0.002,
+  "arm_elev_120": 0.002
+ },
+ "volume_psd_keys": {
+  "PSD_hip_L": {
+   "vertices": 419,
+   "max_rest_delta_mm": 6.071
+  },
+  "PSD_hip_R": {
+   "vertices": 410,
+   "max_rest_delta_mm": 6.0
+  },
+  "PSD_axilla_L": {
+   "vertices": 527,
+   "max_rest_delta_mm": 4.859
+  },
+  "PSD_axilla_R": {
+   "vertices": 526,
+   "max_rest_delta_mm": 4.86
+  }
+ },
+ "cavity": {
+  "coverage": 0.62351,
+  "png": "/content/m4_work/curvature_cavity_2k.png",
+  "H_scale_p98_m_inv": 228.1053,
+  "concave_vertex_fraction": 0.0354
+ },
+ "atlas": {
+  "states": {
+   "rest": {
+    "n_triangles": 26756,
+    "so3_det_min": 1.0,
+    "so3_det_max": 1.0,
+    "so3_orthogonality_max_err": 7.771561172376096e-16,
+    "k_min_mm": 0.0153,
+    "k_max_mm": 49.7408,
+    "degenerate_faces": 0
+   },
+   "theta_fit": {
+    "n_triangles": 26756,
+    "so3_det_min": 1.0,
+    "so3_det_max": 1.0,
+    "so3_orthogonality_max_err": 7.771561172376096e-16,
+    "k_min_mm": 0.0153,
+    "k_max_mm": 49.7408,
+    "degenerate_faces": 0
+   },
+   "P1": {
+    "n_triangles": 26756,
+    "so3_det_min": 1.0,
+    "so3_det_max": 1.0,
+    "so3_orthogonality_max_err": 6.661338147750939e-16,
+    "k_min_mm": 0.0153,
+    "k_max_mm": 49.7408,
+    "degenerate_faces": 0
+   },
+   "P2": {
+    "n_triangles": 26756,
+    "so3_det_min": 1.0,
+    "so3_det_max": 1.0,
+    "so3_orthogonality_max_err": 7.771561172376096e-16,
+    "k_min_mm": 0.0153,
+    "k_max_mm": 49.7408,
+    "degenerate_faces": 0
+   },
+   "P3": {
+    "n_triangles": 26756,
+    "so3_det_min": 1.0,
+    "so3_det_max": 1.0,
+    "so3_orthogonality_max_err": 6.661338147750939e-16,
+    "k_min_mm": 0.0153,
+    "k_max_mm": 49.7408,
+    "degenerate_faces": 0
+   }
+  },
+  "roundtrip_max_err_m": 3.469446951953614e-18,
+  "roundtrip_ok": true,
+  "schema": "R_j = [n | e1 | n x e1] in SO(3), k_j = (B + H) / 2, tau_j = centroid (GG-30); float32"
+ },
+ "ao": {
+  "ao_outer_2k": {
+   "png": "/content/m4_work/ao_outer_2k.png",
+   "mean": 0.62547,
+   "p01": 0.0,
+   "p99": 1.0,
+   "ao_distance_m": 0.25,
+   "normals_flipped": false,
+   "seconds": 7.7
+  },
+  "ao_inner_2k": {
+   "png": "/content/m4_work/ao_inner_2k.png",
+   "mean": 0.59312,
+   "p01": 0.0,
+   "p99": 1.0,
+   "ao_distance_m": 0.035,
+   "normals_flipped": true,
+   "seconds": 7.1
+  },
+  "device": "OPTIX",
+  "samples": 64
+ },
+ "bronze": {
+  "png": "/content/m4_work/M4_P1_bronze_verdigris.png",
+  "camera": {
+   "lens_mm": 105.0,
+   "distance_m": 3.44523,
+   "height_m": 1.22999,
+   "view_deg": 0.0,
+   "crown_z_m": 1.7269,
+   "predicted_top_margin": 0.07,
+   "fade_z_m": 0.852,
+   "fade_frac": 0.82
+  },
+  "stats": {
+   "torso_median": 57.12,
+   "body_p999": 243.63,
+   "clipped_fraction_ge_250": 6.1e-05,
+   "top_margin": 0.06982,
+   "opaque_pixels": 1138065
+  },
+  "device": "OPTIX",
+  "seconds": 14.7
+ },
+ "elapsed_s": 81.0,
+ "verdict": {
+  "all_poses_G5_zero_all_families": true,
+  "all_poses_G5_zero_named4_only": false,
+  "bind_untouched": true,
+  "atlas_roundtrip_ok": true,
+  "lbs_only_zero_dqs": true
+ }
+}

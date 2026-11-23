@@ -1,0 +1,316 @@
+{
+ "stage": "m8_motion_reels",
+ "master_psd": "/content/drive/MyDrive/maximus_v2/results/M4_canon_atlas/maximus_v2_master_psd.blend",
+ "walk_scene": "/content/drive/MyDrive/maximus_v2/results/M5_kinematics/m5_walk_scene.blend",
+ "walk": {
+  "reel": "walk",
+  "frames": 250,
+  "fps": 24,
+  "duration_s": 10.417,
+  "resolution": [
+   1080,
+   1350
+  ],
+  "samples": 48,
+  "adaptive_threshold": 0.03,
+  "device": "OPTIX",
+  "material": "MX_M1_ObsidianNoir",
+  "exposure": -1.1564,
+  "calibration_stats": {
+   "torso_median": 37.14,
+   "body_p50": 35.07,
+   "body_p999": 169.36,
+   "clipped_fraction_ge_250": 0.0,
+   "top_margin": 0.07407,
+   "opaque_pixels": 205002
+  },
+  "calibration_history": [
+   {
+    "exposure": -0.65,
+    "torso_median": 47.14,
+    "clipped": 0.0
+   },
+   {
+    "exposure": -1.1564,
+    "torso_median": 37.14,
+    "clipped": 0.0
+   }
+  ],
+  "invariants": {
+   "verts": 13380,
+   "tris": 26756,
+   "bones": 152,
+   "lbs_only_zero_dqs": true,
+   "corrective_smooth": {
+    "factor": 0.5,
+    "iterations": 5
+   }
+  },
+  "volume_psd_drivers": {
+   "required_keys": [
+    "PSD_hip_L",
+    "PSD_hip_R",
+    "PSD_axilla_L",
+    "PSD_axilla_R"
+   ],
+   "drivers_newly_attached": [],
+   "all_present": true
+  },
+  "volume_psd_peaks": {
+   "PSD_hip_L": 1.0,
+   "PSD_hip_R": 1.0,
+   "PSD_axilla_L": 0.3974,
+   "PSD_axilla_R": 0.3529
+  },
+  "keyed_bones_count": 90,
+  "z_sole_min_mm": 0.0,
+  "z_sole_ge_0": true,
+  "crown_headroom_pct_range": [
+   6.26,
+   7.79
+  ],
+  "sole_frame_frac_range": [
+   0.8945,
+   0.9231
+  ],
+  "azimuth_deg_range": [
+   -15.0,
+   18.0
+  ],
+  "forward_travel_m": 4.182,
+  "render_seconds": 393.4,
+  "qa_frames": {
+   "1": {
+    "t_s": 0.0,
+    "az_deg": -15.0,
+    "headroom_pct": 7.0,
+    "z_sole_mm": 0.0
+   },
+   "50": {
+    "t_s": 2.04,
+    "az_deg": -10.7,
+    "headroom_pct": 6.72,
+    "z_sole_mm": 0.0
+   },
+   "100": {
+    "t_s": 4.12,
+    "az_deg": -3.1,
+    "headroom_pct": 6.46,
+    "z_sole_mm": 0.0
+   },
+   "150": {
+    "t_s": 6.21,
+    "az_deg": 5.9,
+    "headroom_pct": 7.55,
+    "z_sole_mm": 0.0
+   },
+   "200": {
+    "t_s": 8.29,
+    "az_deg": 13.6,
+    "headroom_pct": 6.94,
+    "z_sole_mm": 0.0
+   },
+   "250": {
+    "t_s": 10.38,
+    "az_deg": 18.0,
+    "headroom_pct": 6.88,
+    "z_sole_mm": 0.0
+   }
+  },
+  "mp4": {
+   "file": "maximus_v2_walk_reel.mp4",
+   "bytes": 1663917,
+   "crf": 20,
+   "sha256": "46a21cdeb67df2318a8583bc4d0333114c138dd12feac1b23f1152e49b15f9c2"
+  },
+  "poster_webp": {
+   "file": "maximus_v2_walk_poster.webp",
+   "bytes": 27842,
+   "size": [
+    1080,
+    1350
+   ],
+   "sha256": "41ee1a0eaa00c9626ddc99bd75547d5303ab262e0091a135267d31b61cdbcf00"
+  },
+  "contact_sheet": {
+   "file": "M8_walk_contact_sheet.png",
+   "bytes": 1530396,
+   "size": [
+    1668,
+    1510
+   ],
+   "sha256": "e75e5f5dd81222b1ee5a8af27bb653bf2603b872364d30ff08470d289273b4e8"
+  }
+ },
+ "pose_strike": {
+  "reel": "pose_strike_SWAG_01",
+  "frames": 72,
+  "fps": 24,
+  "duration_s": 3.0,
+  "move_duration_s": 2.2,
+  "hold_duration_s": 0.8,
+  "resolution": [
+   1080,
+   1350
+  ],
+  "samples": 64,
+  "adaptive_threshold": 0.03,
+  "device": "OPTIX",
+  "material": "MX_M1_ObsidianNoir",
+  "exposure": -0.9195,
+  "calibration_stats": {
+   "torso_median": 36.93,
+   "body_p50": 36.14,
+   "body_p999": 180.36,
+   "clipped_fraction_ge_250": 0.0,
+   "top_margin": 0.06963,
+   "opaque_pixels": 505880
+  },
+  "calibration_history": [
+   {
+    "exposure": -0.65,
+    "torso_median": 41.93,
+    "clipped": 0.0
+   },
+   {
+    "exposure": -0.9195,
+    "torso_median": 36.93,
+    "clipped": 0.0
+   }
+  ],
+  "e_rim_over_e_fill": 3.5,
+  "rim_azimuth_deg": [
+   -135.0,
+   135.0
+  ],
+  "rim_watts_each": 177.01,
+  "fill_watts": 70.0,
+  "phase_lags_s": {
+   "pelvis_legs": 0.0,
+   "spine": 0.08,
+   "shoulders_arms": 0.16,
+   "wrists_neck_head": 0.25
+  },
+  "invariants": {
+   "verts": 13380,
+   "tris": 26756,
+   "bones": 152,
+   "lbs_only_zero_dqs": true,
+   "corrective_smooth": {
+    "factor": 0.5,
+    "iterations": 5
+   }
+  },
+  "volume_psd_drivers": {
+   "required_keys": [
+    "PSD_hip_L",
+    "PSD_hip_R",
+    "PSD_axilla_L",
+    "PSD_axilla_R"
+   ],
+   "drivers_newly_attached": [
+    "PSD_hip_L",
+    "PSD_hip_R",
+    "PSD_axilla_L",
+    "PSD_axilla_R"
+   ],
+   "all_present": true
+  },
+  "volume_psd_peaks": {
+   "PSD_hip_R": 0.8138,
+   "PSD_hip_L": 0.9108,
+   "PSD_axilla_R": 0.518,
+   "PSD_axilla_L": 0.518
+  },
+  "clavicle_lock_all_frames": true,
+  "max_G5": 0,
+  "editorial_accent_scale": 1.0,
+  "z_sole_min_mm": 0.0015,
+  "z_sole_ge_0": true,
+  "crown_headroom_pct_range": [
+   7.0,
+   7.0
+  ],
+  "camera_arc": {
+   "az_start_deg": 35.0,
+   "az_end_deg": 10.0,
+   "lens_start_mm": 85.0,
+   "lens_end_mm": 105.0
+  },
+  "render_seconds": 131.0,
+  "qa_frames": {
+   "1": {
+    "t_s": 0.0,
+    "az_deg": 35.0,
+    "lens_mm": 85.0,
+    "headroom_pct": 7.0,
+    "g5": 0
+   },
+   "14": {
+    "t_s": 0.54,
+    "az_deg": 27.7,
+    "lens_mm": 90.9,
+    "headroom_pct": 7.0,
+    "g5": 0
+   },
+   "28": {
+    "t_s": 1.12,
+    "az_deg": 18.5,
+    "lens_mm": 98.2,
+    "headroom_pct": 7.0,
+    "g5": 0
+   },
+   "42": {
+    "t_s": 1.71,
+    "az_deg": 13.4,
+    "lens_mm": 102.3,
+    "headroom_pct": 7.0,
+    "g5": 0
+   },
+   "56": {
+    "t_s": 2.29,
+    "az_deg": 11.0,
+    "lens_mm": 104.2,
+    "headroom_pct": 7.0,
+    "g5": 0
+   },
+   "72": {
+    "t_s": 2.96,
+    "az_deg": 10.0,
+    "lens_mm": 105.0,
+    "headroom_pct": 7.0,
+    "g5": 0
+   }
+  },
+  "mp4": {
+   "file": "maximus_v2_pose_strike.mp4",
+   "bytes": 530038,
+   "crf": 19,
+   "sha256": "85ec3ce7909ac104a9dce99fc2263cec425152e5aa976aaf511540708684b15f"
+  },
+  "poster_webp": {
+   "file": "maximus_v2_pose_poster.webp",
+   "bytes": 27382,
+   "size": [
+    1080,
+    1350
+   ],
+   "sha256": "4ca31fc7137d4a9e21bfdaf76f89f8920d07800415fdc4c1a076dfe0b147c798"
+  },
+  "contact_sheet": {
+   "file": "M8_pose_contact_sheet.png",
+   "bytes": 1502842,
+   "size": [
+    1668,
+    1510
+   ],
+   "sha256": "723753995d78ea37a7405360177fa91f66099b1b27727f5fc386a349fae57827"
+  }
+ },
+ "elapsed_s": 554.7,
+ "verdict": {
+  "walk_ok": true,
+  "pose_strike_ok": true,
+  "invariants_preserved": true
+ }
+}

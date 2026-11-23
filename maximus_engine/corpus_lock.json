@@ -1,0 +1,15 @@
+{
+ "corpus": "C:\\Users\\USER\\Desktop\\4041_MechMix\\01_code_library",
+ "files": {
+  "20_3d_rig_topology_and_physics/primitives/owned/maximus_core/__init__.py": "05ebd97b7e77f76cfdfc0f0f0899fae68106e398d2e2e651ec15ab546002ef02",
+  "20_3d_rig_topology_and_physics/primitives/owned/maximus_core/clearance.py": "21c1c3b848eac9103173245f52c7a3bd3e227b032bbc3f8853c91645ab499c45",
+  "20_3d_rig_topology_and_physics/primitives/owned/maximus_core/egg_head.py": "cc9c56ccc5552bce025aeabad606198e772baa93c28d7adec096c83910f5c64e",
+  "20_3d_rig_topology_and_physics/primitives/owned/maximus_core/face_binding.py": "d1f82146084d2d040a6a6e409af1847463a74216598c5fdb42cb7f61f573cb69",
+  "20_3d_rig_topology_and_physics/primitives/owned/maximus_core/geometry.py": "4e66e7c6bd92db6e03835fbf7ebe6ec74abcb35a10452af6420097d40e5906f1",
+  "30_vision_audio_and_media/primitives/owned/maximus_delight/__init__.py": "746bde0dcf067a4532148431be69c097392bd2b1912660b246c59c01cab7c8ac",
+  "30_vision_audio_and_media/primitives/owned/maximus_delight/delight.py": "f37a98f64a8ee058c82d1cc993db1b9bf7036bc429f968ce2d7e9aeb68d7e8e5",
+  "10_execution_substrate/primitives/owned/corpus_bridge/__init__.py": "6aec04467ee53a69c8d51b250318234d6d238c3ff963a10f21df6ee2772a1d6c",
+  "10_execution_substrate/primitives/owned/corpus_bridge/blender_runner.py": "c7bf99e19333f75656af6aaffe86013b0565b115cc8e3dc2091405361e9b7da2",
+  "10_execution_substrate/primitives/owned/corpus_bridge/contracts.py": "62f4de4d11429b19bfc789820754afc7505610c6775250369ebf17530350702d"
+ }
+}
